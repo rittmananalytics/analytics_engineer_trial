@@ -7,7 +7,7 @@ This trial project simulates real-world working conditions as closely as possibl
 
 ## What are trial projects?
 
-Trial projects are short (usually between 3-5 hours), fully-paid projects which are designed to be similar to the actual work that we do at Rittman Analytics. 
+Trial projects are short (usually between 5-8 hours), fully-paid projects which are designed to be similar to the actual work that we do at Rittman Analytics. 
 
 What we ask you to deliver in a trial project is used for evaluative purposes only, and not used for our own products, consulting or marketing.  We do however pay £40/hour (£200 for a five hour trial) as compensation for your time, payable within 30 days to your Paypal email account or UK bank account.
 
@@ -50,4 +50,4 @@ We would like you to use the development tools we use on our projects, all of wh
 - conformed dimensions
 - types of fact table, and your use of bridge and other fact tables
 
-4. A Data Studio dashboard accessible through a public URL that answers the question we have posed and “tells a story” about this data."
+4. A Data Studio dashboard accessible through a public URL that answers the question we have posed and “tells a story” about this data.
